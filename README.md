@@ -24,4 +24,10 @@ Here are some ideas to get you started:
 
 I'm a self taught web developer with a background in digital advertising. I'm a constant learner and am currently trying to master Javascript. 
 
-@fab fa-html5
+## Technologies 
+
+* HTML
+* CSS
+* Javascript
+* React
+* Node
