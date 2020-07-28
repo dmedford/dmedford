@@ -24,4 +24,4 @@ Here are some ideas to get you started:
 
 I'm a self taught web developer with a background in digital advertising. I'm a constant learner and am currently trying to master Javascript. 
 
-<i class="fab fa-html5"></i>
+@fab fa-html5
