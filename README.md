@@ -23,3 +23,4 @@ Here are some ideas to get you started:
 ### About me
 
 I'm a self taught web developer with a background in digital advertising. I'm a constant learner and am currently trying to master Javascript. 
+
