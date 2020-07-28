@@ -16,6 +16,8 @@ Here are some ideas to get you started:
 
 # David Medford
 
-## Self Taught Developer
+## Self Taught Developer || Digital Marketer
 
-## Digital Marketer
+### I'm currently learning 
+
+- [] Javascript
