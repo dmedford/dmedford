@@ -18,6 +18,6 @@ Here are some ideas to get you started:
 
 ## Self Taught Developer || Digital Marketer
 
-### I'm currently learning 
+### About me
 
-- [ ] Javascript
+I'm a self taught web developer with a background in digital advertising. I'm a constant learner and am currently trying to master Javascript. 
