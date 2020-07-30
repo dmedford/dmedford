@@ -31,3 +31,4 @@ I'm a self taught web developer with a background in digital advertising. I'm a 
 * Javascript
 * React
 * Node
+[![dmedford's github stats](https://github-readme-stats.vercel.app/api?username=dmedford)](https://github.com/dmedford/github-readme-stats)
