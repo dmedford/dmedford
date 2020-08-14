@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 # David Medford
 
-## Web Developer || Digital Marketer
+## Web Developer | Digital Marketer
 
 ### About me
 
